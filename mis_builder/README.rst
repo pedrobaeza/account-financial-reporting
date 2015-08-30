@@ -25,8 +25,7 @@ To configure this module, you need to:
   you can create report templates by defining KPI's. KPI's constitute the rows of your
   reports. Such report templates are time independent.
 
-.. figure:: static/description/ex_report_template.png
-.. figure:: addon/mis_builder/static/description/ex_report_template.png
+.. figure:: static/description/ex_report_template.png | ex_report_template.png
    :scale: 80 %
    :alt: Sample report template
 
