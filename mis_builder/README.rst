@@ -26,6 +26,7 @@ To configure this module, you need to:
   reports. Such report templates are time independent.
 
 .. figure:: static/description/ex_report_template.png
+.. figure:: addon/mis_builder/static/description/ex_report_template.png
    :scale: 80 %
    :alt: Sample report template
 
